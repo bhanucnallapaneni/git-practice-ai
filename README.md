@@ -1,2 +1,2 @@
 # git-practice-ai
-Exploring git options
+Exploring git options using Python samples
